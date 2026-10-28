@@ -219,25 +219,12 @@ breast-cancer-deep-learning/
 │
 ├── README.md
 │
-├── notebooks/
-│   ├── model-1.ipynb
-│   ├── model-2.ipynb
-│   ├── model-3.ipynb
-│   └── hybrid_models.ipynb
+├── Model.ipynb
 │
 │
-├── results/
-│   ├── figures/
-│   ├── confusion_matrices/
-│   ├── roc_curves/
-│   └── model_comparison/
+├── results
 │
-├── presentation/
-│   └── Final_Defense_Presentation.pdf
-│
-├── requirements.txt
-│
-└── LICENSE
+├── Final_Defense_Presentation.pdf
 ```
 
 > Update the folder names above according to the actual files in this repository.
